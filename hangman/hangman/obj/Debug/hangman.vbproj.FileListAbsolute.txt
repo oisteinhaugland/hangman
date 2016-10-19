@@ -1,1 +1,11 @@
 C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.vbprojResolveAssemblyReference.cache
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.Form1.resources
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.Resources.resources
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.vbproj.GenerateResource.Cache
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\bin\Debug\hangman.xml
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.xml
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\hangman\obj\Debug\hangman.pdb
