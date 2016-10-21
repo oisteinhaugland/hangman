@@ -51,14 +51,14 @@ Partial Class Form1
         Me.Button27 = New System.Windows.Forms.Button()
         Me.Button28 = New System.Windows.Forms.Button()
         Me.Button29 = New System.Windows.Forms.Button()
-        Me.Button30 = New System.Windows.Forms.Button()
+        Me.fyllBoks = New System.Windows.Forms.Button()
         Me.ordet = New System.Windows.Forms.Label()
         Me.streker = New System.Windows.Forms.Label()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.brukteBokstaver = New System.Windows.Forms.Label()
-        Me.Button31 = New System.Windows.Forms.Button()
-        Me.Button32 = New System.Windows.Forms.Button()
+        Me.brukteBoks = New System.Windows.Forms.Button()
+        Me.alfabetBoks = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -352,14 +352,14 @@ Partial Class Form1
         Me.Button29.Text = "Å"
         Me.Button29.UseVisualStyleBackColor = True
         '
-        'Button30
+        'fyllBoks
         '
-        Me.Button30.Font = New System.Drawing.Font("Courier New", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button30.Location = New System.Drawing.Point(580, 367)
-        Me.Button30.Name = "Button30"
-        Me.Button30.Size = New System.Drawing.Size(36, 27)
-        Me.Button30.TabIndex = 29
-        Me.Button30.UseVisualStyleBackColor = True
+        Me.fyllBoks.Font = New System.Drawing.Font("Courier New", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.fyllBoks.Location = New System.Drawing.Point(580, 367)
+        Me.fyllBoks.Name = "fyllBoks"
+        Me.fyllBoks.Size = New System.Drawing.Size(36, 27)
+        Me.fyllBoks.TabIndex = 29
+        Me.fyllBoks.UseVisualStyleBackColor = True
         '
         'ordet
         '
@@ -415,21 +415,21 @@ Partial Class Form1
         Me.brukteBokstaver.TabIndex = 36
         Me.brukteBokstaver.Text = "Brukte"
         '
-        'Button31
+        'brukteBoks
         '
-        Me.Button31.Location = New System.Drawing.Point(355, 64)
-        Me.Button31.Name = "Button31"
-        Me.Button31.Size = New System.Drawing.Size(318, 96)
-        Me.Button31.TabIndex = 37
-        Me.Button31.UseVisualStyleBackColor = True
+        Me.brukteBoks.Location = New System.Drawing.Point(355, 64)
+        Me.brukteBoks.Name = "brukteBoks"
+        Me.brukteBoks.Size = New System.Drawing.Size(318, 96)
+        Me.brukteBoks.TabIndex = 37
+        Me.brukteBoks.UseVisualStyleBackColor = True
         '
-        'Button32
+        'alfabetBoks
         '
-        Me.Button32.Location = New System.Drawing.Point(355, 166)
-        Me.Button32.Name = "Button32"
-        Me.Button32.Size = New System.Drawing.Size(318, 262)
-        Me.Button32.TabIndex = 38
-        Me.Button32.UseVisualStyleBackColor = True
+        Me.alfabetBoks.Location = New System.Drawing.Point(355, 166)
+        Me.alfabetBoks.Name = "alfabetBoks"
+        Me.alfabetBoks.Size = New System.Drawing.Size(318, 262)
+        Me.alfabetBoks.TabIndex = 38
+        Me.alfabetBoks.UseVisualStyleBackColor = True
         '
         'Form1
         '
@@ -441,7 +441,7 @@ Partial Class Form1
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.ordet)
         Me.Controls.Add(Me.streker)
-        Me.Controls.Add(Me.Button30)
+        Me.Controls.Add(Me.fyllBoks)
         Me.Controls.Add(Me.Button29)
         Me.Controls.Add(Me.Button28)
         Me.Controls.Add(Me.Button27)
@@ -471,8 +471,8 @@ Partial Class Form1
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.Button31)
-        Me.Controls.Add(Me.Button32)
+        Me.Controls.Add(Me.brukteBoks)
+        Me.Controls.Add(Me.alfabetBoks)
         Me.Name = "Form1"
         Me.Text = "Form1"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
@@ -510,12 +510,12 @@ Partial Class Form1
     Friend WithEvents Button27 As Button
     Friend WithEvents Button28 As Button
     Friend WithEvents Button29 As Button
-    Friend WithEvents Button30 As Button
+    Friend WithEvents fyllBoks As Button
     Friend WithEvents ordet As Label
     Friend WithEvents streker As Label
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents Label3 As Label
     Friend WithEvents brukteBokstaver As Label
-    Public WithEvents Button31 As Button
-    Friend WithEvents Button32 As Button
+    Public WithEvents brukteBoks As Button
+    Friend WithEvents alfabetBoks As Button
 End Class
