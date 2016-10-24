@@ -1,0 +1,30 @@
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\bin\Debug\Hovedside.exe.config
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.vbprojResolveAssemblyReference.cache
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.Form1.resources
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.Resources.resources
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.vbproj.GenerateResource.Cache
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\bin\Debug\Hovedside.exe
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\bin\Debug\Hovedside.pdb
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\bin\Debug\Hovedside.xml
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.exe
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.xml
+C:\Users\nind_\Documents\Visual Studio 2015\Projects\Hangman spillet Team 5\Ny mappe\Hovedside\Hovedside\obj\Debug\Hovedside.pdb
+C:\Users\nind_\OneDrive\Hangman spillet Team 5\Hovedside\Hovedside\Hovedside\bin\Debug\Hovedside.exe.config
+C:\Users\nind_\OneDrive\Hangman spillet Team 5\Hovedside\Hovedside\Hovedside\obj\Debug\Hovedside.exe
+C:\Users\nind_\OneDrive\Hangman spillet Team 5\Hovedside\Hovedside\Hovedside\obj\Debug\Hovedside.xml
+C:\Users\nind_\OneDrive\Hangman spillet Team 5\Hovedside\Hovedside\Hovedside\obj\Debug\Hovedside.pdb
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\bin\Debug\Hovedside.exe.config
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.exe
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.xml
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.pdb
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.vbprojResolveAssemblyReference.cache
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.Form1.resources
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.Resources.resources
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\obj\Debug\Hovedside.vbproj.GenerateResource.Cache
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\bin\Debug\Hovedside.exe
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\bin\Debug\Hovedside.pdb
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\nina\side2\Hovedside\bin\Debug\Hovedside.xml
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\pages\side2\Hovedside\bin\Debug\Hovedside.exe.config
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\pages\side2\Hovedside\obj\Debug\Hovedside.exe
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\pages\side2\Hovedside\obj\Debug\Hovedside.xml
+C:\Users\Øistein\Documents\Visual Studio 2015\Projects\hangman\hangman\pages\side2\Hovedside\obj\Debug\Hovedside.pdb
